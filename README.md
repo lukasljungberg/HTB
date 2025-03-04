@@ -13,7 +13,7 @@
 - **Challenges Completed:** `15/707`
 - **User Owned:** `23`
 - **System Owned:** `18`
-- **Rank Progress:** `0%` → Towards Hacker 🏆
+- **Rank Progress:** `0%` → Towards Hacker ATM
 - **Overall Ownership:** `3.46%` of Hack The Box Pwned
 
 📈 _Climbing the ranks... Slowly but surely!_
