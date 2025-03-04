@@ -1,6 +1,4 @@
-## 🚀 Hack The Box Profile - 1ök3n
-
-![Hack The Box](https://www.hackthebox.com/images/htb-og-image.jpg)
+## 🟩 Hack The Box Profile - 1ök3n
 
 ### 🏴‍☠️ About Me
 - **Username:** 1ök3n  
